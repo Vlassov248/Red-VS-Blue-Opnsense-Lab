@@ -4,7 +4,7 @@ This project presents a **realistic simulation of cyberattacks and defensive cou
 We replicate real-world attack scenarios, observe system behavior under threat, and deploy robust protections via **OPNSense + Suricata**.
 
 
- **[Attack_Report_OPNSense.docx](Attack_Report_OPNSense.docx)**  
+ **[Download_Attack_Report_OPNSense.docx](Attack_Report_OPNSense.docx)**  
 
 ---
 
@@ -93,7 +93,7 @@ A detailed lab report is included in the repository, covering:
 - Results of threat mitigation
 - Step-by-step screenshots
 
- **[Attack_Report_OPNSense.docx](Attack_Report_OPNSense.docx)**  
+ **[Download_Attack_Report_OPNSense.docx](Attack_Report_OPNSense.docx)**  
 
 ---
 
