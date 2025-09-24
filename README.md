@@ -115,7 +115,7 @@ Two simulated attacks were conducted:
 
 ---
 
--  ## ⚠️ Legal Disclaimer
+-  ##  Legal Disclaimer
 
 >  **Warning:** All tests were performed in a controlled and isolated environment.  
 >  Do not perform similar actions on real networks without explicit permission.  
